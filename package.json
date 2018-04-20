@@ -1,0 +1,11 @@
+{
+  "name": "tp-boot",
+  "version": "1.0.0",
+  "description": "Talent pool boot for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT"
+}
