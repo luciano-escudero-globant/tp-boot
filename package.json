@@ -4,6 +4,7 @@
   "description": "Talent pool boot for slack",
   "main": "index.js",
   "scripts": {
+    "start" : "node app.js",
     "test": "test"
   },
   "author": "",
